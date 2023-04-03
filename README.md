@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=😄JoSeongMin)
 
 <span> 💌 Contact : 157123456@naver.com </span> <br>
+<span> :mortar_board: blog : https://joseongmin.tistory.com/ </span> <br>
 <span> 🔎 결과도 중요하지만, 과정도 중요하다고 생각합니다 </span> <br>
 <span> 🥕 느리지만 착실히 성장해가는 개발자입니다 </span>
 
